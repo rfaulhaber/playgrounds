@@ -1,0 +1,11 @@
+#+TITLE: Playgrounds
+
+Very often I need a space to simply /do/ things without a project or pretext. At
+the moment of writing this, I lack a proper way to do this /ad-hoc/. =nix-shell=
+and Emacs are wonderful tools that get me close, however I am still tethered to
+/files/. Until I am free of files, this playground serves a purpose.
+
+Do you follow so far?
+
+In order for this space to be useful, you will need Emacs and Nix. Run =direnv
+allow= here and this space will become even more useful to you.
